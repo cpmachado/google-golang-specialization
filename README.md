@@ -7,9 +7,9 @@ Reference: <https://www.coursera.org/specializations/google-golang>
 
 ## Courses
 
-1. [Getting Started with Go](golang-getting-started)
-2. [Functions, Methods, and Interfaces in Go](golang-functions-methods)
-3. [Concurrency in Go](golang-concurrency)
+- [ ] [Getting Started with Go](golang-getting-started)
+- [ ] [Functions, Methods, and Interfaces in Go](golang-functions-methods)
+- [ ] [Concurrency in Go](golang-concurrency)
 
 ## LICENSE
 
